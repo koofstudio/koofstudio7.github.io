@@ -17,21 +17,6 @@ button{
     padding: 5px 10px;
 }
 
-.spotlight img,
-.image{
-    width: 130%;
-   
-    content-visibility: auto;
-}
-.image{
-    display: inline-block;
-    height: 20vw;
-    max-height: 300px;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: contain;
-
-}
 
 .spotlight{
     cursor: pointer;
